@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mr Nobody</h1>
 <h3 align="center">Learner today, creator tomorrow | Full-stack & Cloud-driven 💡🚀</h3>
 
-- 🌱 I’m currently learning **Oracle Cloud Architect**
 
 - 📫 How to reach me **tirtho1504@gmail.com**
 
